@@ -1,0 +1,12 @@
+<script src="https://www.gstatic.com/firebasejs/3.6.8/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCQKKUolhf2zlakHciL6zSC4coU-Q0MvlQ",
+    authDomain: "admob-app-id-1384879195.firebaseapp.com",
+    databaseURL: "https://admob-app-id-1384879195.firebaseio.com",
+    storageBucket: "admob-app-id-1384879195.appspot.com",
+    messagingSenderId: "949665095832"
+  };
+  firebase.initializeApp(config);
+</script>
